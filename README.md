@@ -4,7 +4,7 @@ Analizlerde kullanılmak üzere Tayvan'daki Hsin-Chu şehrindeki Kan Transfüzyo
 Kan Transfüzyon Hizmet Merkezi, kan nakli servis otobüsünü yaklaşık üç ayda bir bağışlanan kanı toplamak için Hsin-Chu şehrindeki bir üniversiteye aktarmaktadır.
 Kullanılan kan transfüzyon veri setinde, bir model oluşturmak için bağışçı veritabanından rastgele 748 bağışçı seçilmiştir. 
 Amaç, kan bağışçısının belirli bir zaman içinde (Mart 2007) kan bağışı yapıp yapmayacağını tahmin etmektir.
-## Bu veritabanı RFMTC modelini izlemektedir ve içerdiği nitelikler aşağıda gösterilmiştir.
+# Bu veritabanı RFMTC modelini izlemektedir ve içerdiği nitelikler aşağıda gösterilmiştir.
 ●	Recency (Yenilik- son bağıştan bu yana geçen ay),
 ●	Frequency (Sıklık- toplam bağış sayısı),
 ●	Monetary (Değer- cc olarak bağışlanan toplam kan),
