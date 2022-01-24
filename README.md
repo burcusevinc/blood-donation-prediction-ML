@@ -14,6 +14,7 @@ Amaç, kan bağışçısının belirli bir zaman içinde (Mart 2007) kan bağı�
 ●	Time (İlk bağıştan bu yana geçen süre) ve
 <br>
 ●	Class (İkili değişken bağışçının Mart 2007'de kan bağışında bulunup bulunmadığını temsil eder ,1 kan bağışlamak anlamına gelir; 0 bağışçının kan bağışlamadığı anlamına gelir).
+<br>
 Verinin içerisinde boş veya yanlış değerler olup olmadığı kontrol edilir. 
 Kullanılan veri setinde, boş veya yanlış veri bulunmadığı için veri ön işleme aşamasında bu işlemler uygulanmamıştır. 
 Ayrıca verilerin tamamı nümerik olduğu için tür dönüşümü yapmaya ihtiyaç yoktur.
