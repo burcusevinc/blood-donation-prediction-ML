@@ -1,4 +1,4 @@
-### Blood Donation Prediction with Machine Learning
+### Makine Öğrenmesi Algoritmaları Kullanılarak Kan Bağışı Tahmini Yapılması
 
 Analizlerde kullanılmak üzere Tayvan'daki Hsin-Chu şehrindeki Kan Transfüzyon Servis Merkezinin bağışçı veritabanından veri seti temin edilmiştir. 
 Kan Transfüzyon Hizmet Merkezi, kan nakli servis otobüsünü yaklaşık üç ayda bir bağışlanan kanı toplamak için Hsin-Chu şehrindeki bir üniversiteye aktarmaktadır.
