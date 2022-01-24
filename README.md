@@ -6,9 +6,13 @@ Kullanılan kan transfüzyon veri setinde, bir model oluşturmak için bağış�
 Amaç, kan bağışçısının belirli bir zaman içinde (Mart 2007) kan bağışı yapıp yapmayacağını tahmin etmektir.
 # Bu veritabanı RFMTC modelini izlemektedir ve içerdiği nitelikler aşağıda gösterilmiştir.
 ●	Recency (Yenilik- son bağıştan bu yana geçen ay),
+<hr>
 ●	Frequency (Sıklık- toplam bağış sayısı),
+<hr>
 ●	Monetary (Değer- cc olarak bağışlanan toplam kan),
+<hr>
 ●	Time (İlk bağıştan bu yana geçen süre) ve
+<hr>
 ●	Class (İkili değişken bağışçının Mart 2007'de kan bağışında bulunup bulunmadığını temsil eder ,1 kan bağışlamak anlamına gelir; 0 bağışçının kan bağışlamadığı anlamına gelir).
 Verinin içerisinde boş veya yanlış değerler olup olmadığı kontrol edilir. 
 Kullanılan veri setinde, boş veya yanlış veri bulunmadığı için veri ön işleme aşamasında bu işlemler uygulanmamıştır. 
